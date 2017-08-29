@@ -10,3 +10,8 @@ Height
 Weight
 BMI
 Allergies
+Medication name
+Recommended dosage
+Concentration
+Weight of tablet
+List of side effects
