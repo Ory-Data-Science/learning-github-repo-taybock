@@ -1,0 +1,3 @@
+A list of all the kinds of data we will run into as pharmacists.
+In our commit log, save and commit along the way.
+Have this done by wednesday and (bonus) submit pull request on someone elses.
