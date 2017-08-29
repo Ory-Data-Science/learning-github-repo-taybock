@@ -1,5 +1,7 @@
-Name of patient
+Name of hospital
+Address of hospital
 Name of doctor
+Name of patient
 Age of patient
 Address of patient
 Phone number of patient
